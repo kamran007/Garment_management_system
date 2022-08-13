@@ -1,0 +1,170 @@
+﻿*{
+	margin:0;
+	padding:0;
+    text-align: left;
+}
+.full{
+     background-image:url('~/images/back.jpg');
+	 background-color:wheat;
+}
+.container{
+	width:960px;
+	margin:0 auto;
+	overflow:hidden;
+	background-color:#dbdbdb;
+}
+.header {
+	overflow:hidden;
+	background-color:#FEFEFE;
+}
+
+.logo {
+	width:150px;
+	float:left;
+}
+
+.title {
+    text-align:center;
+	width:700px;
+	float:left;
+	
+}
+.title h1{
+	margin-left:100px;
+	margin-top:30px;
+	
+}
+.title h4{
+	margin-left:140px;
+	margin-top:10px;
+    margin-bottom:30px;
+	
+}
+
+.login {
+	width:110px;
+	float:left;
+}
+.login p{
+	margin-top:60px;
+	margin-left:20px;
+	font-size:16px;
+	text-transform:uppercase;
+}
+.login p a{
+	text-decoration:none;
+	color:#000;
+}
+.nav {
+	background-color:#68894d;
+	
+}
+.nav ul#nav{
+	margin:0;
+	padding:0;
+	list-style:none;
+	min-height: 50px;
+}
+.nav ul#nav li{
+	float:left;
+	border-right:1px solid #5e6f50;
+	position:relative;
+}
+.nav ul#nav li a{
+	color:#ffffff;
+	font-size:15px;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-weight:700;
+	display:block;
+	padding:15px;
+}
+ul li a:hover{
+	background-color:#466030;
+	
+}
+.nav ul#nav li ul{
+	left:-999999px;
+	position:absolute;
+}
+.nav ul#nav li:hover ul{
+	left:0px;
+	top:50px;	
+	list-style:none;
+}
+.nav ul#nav li ul{
+	z-index:1000;
+	width:200px;
+	
+}
+.nav ul#nav li ul li{
+	float:none;
+	border-bottom:1px solid #5e6f50;
+	border-right:0px solid;
+	
+}
+.nav ul#nav li ul li a{
+	background-color:#668f44;
+	color:#fff;
+	display:block;
+	padding:15px 20px;
+}
+.nav ul#nav li ul li a:hover{
+	background:#466030;
+}
+
+
+.notice {
+	height:30px;
+	border:3px solid #68894d;
+	margin-top:5px;
+	margin-bottom:5px;
+	background-color:#FFF;
+}
+
+.slider {
+	overflow:hidden;
+}
+
+.content {
+	background-color:#FEFEFE;
+}
+.content h2{
+	padding:20px;
+}
+.content p{
+	padding-left:20px;
+	padding-bottom:10px;
+}
+
+
+.footer {
+	background-color:#68894D;
+	color:#FFF;
+}
+.footer p{
+	padding:25px;
+}
+.Profile{
+    background-color:white;
+}
+.ManagementTask, .DeliveryList, .BuyerRegForm, .AddEmployee, .AddManagement, .AddQC, .DeliveryReport, .DistributionWorkList, .GiveOrder, .OrderList, .QAReport, .Report, .WorkDistribution
+{
+    float:none;
+    text-align:center;
+    padding-left:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:white;
+}
+.BuyerList{
+    float:none;
+    text-align:center;
+    padding-left:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:white;
+
+}
+
+

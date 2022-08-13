@@ -1,0 +1,9 @@
+F:\Asp.net Project\GMS\GMS\bin\GMS.dll.config
+F:\Asp.net Project\GMS\GMS\bin\GMS.dll
+F:\Asp.net Project\GMS\GMS\bin\GMS.pdb
+F:\Asp.net Project\GMS\GMS\obj\Debug\GMS.csprojResolveAssemblyReference.cache
+F:\Asp.net Project\GMS\GMS\obj\Debug\GMS.dll
+F:\Asp.net Project\GMS\GMS\obj\Debug\GMS.pdb
+F:\Asp.net Project\GMS\GMS\bin\Microsoft.Owin.dll
+F:\Asp.net Project\GMS\GMS\bin\Owin.dll
+F:\Asp.net Project\GMS\GMS\bin\Microsoft.Owin.xml
